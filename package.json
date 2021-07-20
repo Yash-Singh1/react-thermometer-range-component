@@ -1,0 +1,17 @@
+{
+  "name": "react-thermometer-range-component",
+  "version": "1.0.0",
+  "description": "Allows to specify a range on a thermometer",
+  "main": "src/Thermometer.js",
+  "keywords": [
+    "react",
+    "thermometer",
+    "range"
+  ],
+  "author": "Yash Singh",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2"
+  }
+}
